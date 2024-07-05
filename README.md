@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# //npm init
+# //npm install apollo-express
+# //npm install node
+# //npm install apollo-server
+# //npm install graphql
+# //npm install graphql-tools
+# //npm install graphql-tag
+#mongoose
